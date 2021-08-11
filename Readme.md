@@ -1,13 +1,13 @@
-# Cheepest WLAN Spectrumanalyzor 
+# Cheepest WLAN spectrum analyzer 
 
-This is a simple Guide for a DIY Spectrumanalyzor with an ESP32 and the Arduino IDE.
+This is a simple Guide for a DIY spectrum analyzer with an ESP32 and the Arduino IDE.
 The code is based on the work of Łukasz Podkalicki (http://blog.podkalicki.com/esp32-wifi-sniffer/)
 
 
 # Gui
-The gui is a console application, simple to acess with Putty for example.
+The gui is a console application, simple to access with Putty for example.
 
 ![](Spectrum.JPG)
 
 # Source
-Github
+https://github.com/boschung/WifiSpectrumAnalyzer
